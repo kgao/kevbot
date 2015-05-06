@@ -1,0 +1,129 @@
+Tue Apr 28 2015 15:12:59 GMT-0400 (EDT) (user) ~emohello 
+Tue Apr 28 2015 15:12:59 GMT-0400 (EDT) (bot) How are you? 
+Tue Apr 28 2015 15:13:08 GMT-0400 (EDT) (user) emohello 
+Tue Apr 28 2015 15:19:13 GMT-0400 (EDT) (user) what is the weather like today 
+Tue Apr 28 2015 15:19:14 GMT-0400 (EDT) (bot) I'm not near a window. 
+Tue Apr 28 2015 15:21:01 GMT-0400 (EDT) (user) what is the weather like today in new york city , and do you love it 
+Tue Apr 28 2015 15:21:14 GMT-0400 (EDT) (user) what is the weather like today in new york city , and do you love it 
+Tue Apr 28 2015 15:21:28 GMT-0400 (EDT) (user) what is the weather like 
+Tue Apr 28 2015 15:45:21 GMT-0400 (EDT) (user) ~emohello 
+Tue Apr 28 2015 15:45:22 GMT-0400 (EDT) (bot) Hi! 
+Tue Apr 28 2015 15:46:45 GMT-0400 (EDT) (user) can you help me 
+Tue Apr 28 2015 15:46:51 GMT-0400 (EDT) (user) ~emohello 
+Tue Apr 28 2015 15:46:51 GMT-0400 (EDT) (bot) Hello 
+Tue Apr 28 2015 15:46:56 GMT-0400 (EDT) (user) ~emohowzit 
+Tue Apr 28 2015 15:47:06 GMT-0400 (EDT) (user) what is the weather like today 
+Tue Apr 28 2015 15:47:06 GMT-0400 (EDT) (bot) I'm not near a window. 
+Tue Apr 28 2015 15:47:47 GMT-0400 (EDT) (user) new york weather 
+Tue Apr 28 2015 15:47:55 GMT-0400 (EDT) (user) new york weather 
+Tue Apr 28 2015 15:48:09 GMT-0400 (EDT) (user) I remember you 
+Tue Apr 28 2015 15:48:20 GMT-0400 (EDT) (user) do you remember me 
+Tue Apr 28 2015 15:49:22 GMT-0400 (EDT) (user) new york weather 
+Tue Apr 28 2015 15:51:12 GMT-0400 (EDT) (user) ~emohello 
+Tue Apr 28 2015 15:51:13 GMT-0400 (EDT) (bot) Ola 
+Tue Apr 28 2015 15:51:31 GMT-0400 (EDT) (user) what is New York weather like today 
+Tue Apr 28 2015 15:51:31 GMT-0400 (EDT) (bot) I'm not near a window. 
+Tue Apr 28 2015 15:51:39 GMT-0400 (EDT) (user) how are you 
+Tue Apr 28 2015 15:51:40 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Tue Apr 28 2015 15:51:51 GMT-0400 (EDT) (user) I think its ok 
+Tue Apr 28 2015 15:51:52 GMT-0400 (EDT) (bot) Tell me more about that. 
+Tue Apr 28 2015 15:52:03 GMT-0400 (EDT) (user) do you like samlbot 
+Tue Apr 28 2015 15:52:03 GMT-0400 (EDT) (bot) Please go on. 
+Tue Apr 28 2015 15:52:12 GMT-0400 (EDT) (user) do you like donbot 
+Tue Apr 28 2015 15:52:13 GMT-0400 (EDT) (bot) Tell me more about that. 
+Tue Apr 28 2015 15:52:24 GMT-0400 (EDT) (user) do you remember samlbot 
+Tue Apr 28 2015 15:52:24 GMT-0400 (EDT) (bot) That is interesting. Please continue. 
+Tue Apr 28 2015 15:52:31 GMT-0400 (EDT) (user) tired 
+Tue Apr 28 2015 15:52:31 GMT-0400 (EDT) (bot) I'm not sure I understand you fully. 
+Tue Apr 28 2015 15:52:39 GMT-0400 (EDT) (user) nevermind 
+Tue Apr 28 2015 15:52:40 GMT-0400 (EDT) (bot) Tell me more about that. 
+Tue Apr 28 2015 15:53:44 GMT-0400 (EDT) (user) I feel happy abt you 
+Tue Apr 28 2015 15:53:45 GMT-0400 (EDT) (bot) Please go on. 
+Tue Apr 28 2015 15:56:26 GMT-0400 (EDT) (user) ~emohello 
+Tue Apr 28 2015 15:56:27 GMT-0400 (EDT) (bot) Ola 
+Tue Apr 28 2015 15:56:58 GMT-0400 (EDT) (user) ~emohowzit 
+Tue Apr 28 2015 15:56:58 GMT-0400 (EDT) (bot) That is interesting. Please continue. 
+Tue Apr 28 2015 15:57:04 GMT-0400 (EDT) (user) can you help me 
+Tue Apr 28 2015 15:57:04 GMT-0400 (EDT) (bot) Please go on. 
+Tue Apr 28 2015 15:57:16 GMT-0400 (EDT) (user) New York weather 
+Tue Apr 28 2015 15:57:16 GMT-0400 (EDT) (bot) Please go on. 
+Tue Apr 28 2015 15:57:23 GMT-0400 (EDT) (user) you remember me 
+Tue Apr 28 2015 15:57:23 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Tue Apr 28 2015 15:57:58 GMT-0400 (EDT) (user) I forget you 
+Tue Apr 28 2015 15:57:58 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Tue Apr 28 2015 16:01:26 GMT-0400 (EDT) (user) ~emohello 
+Tue Apr 28 2015 16:01:27 GMT-0400 (EDT) (bot) Hi! 
+Tue Apr 28 2015 16:01:34 GMT-0400 (EDT) (user) new york weather 
+Tue Apr 28 2015 16:01:34 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Tue Apr 28 2015 16:01:41 GMT-0400 (EDT) (user) you remember me 
+Tue Apr 28 2015 16:01:41 GMT-0400 (EDT) (bot) What about me should I remember? 
+Tue Apr 28 2015 16:01:54 GMT-0400 (EDT) (user) I remember you 
+Tue Apr 28 2015 16:01:54 GMT-0400 (EDT) (bot) I'm not sure I understand you fully. 
+Tue Apr 28 2015 16:02:01 GMT-0400 (EDT) (user) I remember you 
+Tue Apr 28 2015 16:02:02 GMT-0400 (EDT) (bot) Tell me more about that. 
+Tue Apr 28 2015 16:02:07 GMT-0400 (EDT) (user) you forget me 
+Tue Apr 28 2015 16:02:07 GMT-0400 (EDT) (bot) I'm not sure I understand you fully. 
+Tue Apr 28 2015 16:02:19 GMT-0400 (EDT) (user) look west 
+Tue Apr 28 2015 16:02:20 GMT-0400 (EDT) (bot) I'm not sure I understand you fully. 
+Tue Apr 28 2015 16:02:36 GMT-0400 (EDT) (user) ~emoapology 
+Tue Apr 28 2015 16:02:36 GMT-0400 (EDT) (bot) Tell me more about that. 
+Tue Apr 28 2015 16:04:18 GMT-0400 (EDT) (user) what is your name 
+Tue Apr 28 2015 16:04:19 GMT-0400 (EDT) (bot) That is interesting. Please continue. 
+Tue Apr 28 2015 16:04:31 GMT-0400 (EDT) (user) ~emogoodbye 
+Tue Apr 28 2015 16:04:31 GMT-0400 (EDT) (bot) Please go on. 
+Tue Apr 28 2015 16:05:04 GMT-0400 (EDT) (user) everyone 
+Tue Apr 28 2015 16:05:04 GMT-0400 (EDT) (bot) That is interesting. Please continue. 
+Tue Apr 28 2015 16:05:51 GMT-0400 (EDT) (user) I am testing you 
+Tue Apr 28 2015 16:05:51 GMT-0400 (EDT) (bot) Do you know anyone else who is testing you? 
+Tue Apr 28 2015 16:07:18 GMT-0400 (EDT) (user) I feel good 
+Tue Apr 28 2015 16:07:18 GMT-0400 (EDT) (bot) Do you often feel good? 
+Tue Apr 28 2015 16:08:15 GMT-0400 (EDT) (user) yesterday I dreamed abt you 
+Tue Apr 28 2015 16:08:15 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Tue Apr 28 2015 16:08:52 GMT-0400 (EDT) (user) I forget wall -e 
+Tue Apr 28 2015 16:08:53 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Tue Apr 28 2015 16:12:52 GMT-0400 (EDT) (user) ~emohello 
+Tue Apr 28 2015 16:12:53 GMT-0400 (EDT) (bot) Howdy 
+Tue Apr 28 2015 16:12:58 GMT-0400 (EDT) (user) ~emohello 
+Tue Apr 28 2015 16:12:58 GMT-0400 (EDT) (bot) Hi, how are you? 
+Tue Apr 28 2015 16:13:09 GMT-0400 (EDT) (user) why the internet is so slow 
+Tue Apr 28 2015 16:13:10 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Tue Apr 28 2015 16:13:20 GMT-0400 (EDT) (user) say hello to everyone 
+Tue Apr 28 2015 16:13:20 GMT-0400 (EDT) (bot) I'm not sure I understand you fully. 
+Tue Apr 28 2015 16:13:37 GMT-0400 (EDT) (user) Say hello to everyone 
+Tue Apr 28 2015 16:13:38 GMT-0400 (EDT) (bot) I'm not sure I understand you fully. 
+Tue Apr 28 2015 16:14:32 GMT-0400 (EDT) (user) Say hello to Sam 
+Tue Apr 28 2015 16:14:33 GMT-0400 (EDT) (bot) Tell me more about that. 
+Tue Apr 28 2015 16:21:59 GMT-0400 (EDT) (user) what about new york weather like 
+Tue Apr 28 2015 16:22:01 GMT-0400 (EDT) (bot) I'm not near a window. 
+Tue Apr 28 2015 16:22:16 GMT-0400 (EDT) (user) New York weather 
+Tue Apr 28 2015 16:22:17 GMT-0400 (EDT) (bot) Please go on. 
+Tue Apr 28 2015 16:22:27 GMT-0400 (EDT) (user) Say hello to everyone 
+Tue Apr 28 2015 16:22:29 GMT-0400 (EDT) (bot) That is interesting. Please continue. 
+Wed Apr 29 2015 15:11:32 GMT-0400 (EDT) (user) ~emohello 
+Wed Apr 29 2015 15:11:35 GMT-0400 (EDT) (bot) How are you? 
+Wed Apr 29 2015 15:11:33 GMT-0400 (EDT) (user) ~emohello 
+Wed Apr 29 2015 15:11:35 GMT-0400 (EDT) (bot) Hi, how are you? 
+Wed Apr 29 2015 15:11:33 GMT-0400 (EDT) (user) ~emohello 
+Wed Apr 29 2015 15:11:35 GMT-0400 (EDT) (bot) Ola 
+Wed Apr 29 2015 15:11:34 GMT-0400 (EDT) (user) ~emohello 
+Wed Apr 29 2015 15:11:36 GMT-0400 (EDT) (bot) How are you? 
+Wed Apr 29 2015 15:11:35 GMT-0400 (EDT) (user) ~emohello 
+Wed Apr 29 2015 15:11:37 GMT-0400 (EDT) (bot) Hello 
+Wed Apr 29 2015 15:11:49 GMT-0400 (EDT) (user) how are you today 
+Wed Apr 29 2015 15:11:49 GMT-0400 (EDT) (bot) That is interesting. Please continue. 
+Wed Apr 29 2015 15:11:54 GMT-0400 (EDT) (user) what is the weather like 
+Wed Apr 29 2015 15:11:55 GMT-0400 (EDT) (bot) I'm not near a window. 
+Wed Apr 29 2015 15:11:58 GMT-0400 (EDT) (user) ~yes 
+Wed Apr 29 2015 15:11:58 GMT-0400 (EDT) (bot) Tell me more about that. 
+Wed Apr 29 2015 15:12:04 GMT-0400 (EDT) (user) what do you think nymag 
+Wed Apr 29 2015 15:12:04 GMT-0400 (EDT) (bot) Tell me more about that. 
+Wed Apr 29 2015 15:12:07 GMT-0400 (EDT) (user) ~yes 
+Wed Apr 29 2015 15:12:07 GMT-0400 (EDT) (bot) Tell me more about that. 
+Wed Apr 29 2015 15:12:08 GMT-0400 (EDT) (user) good 
+Wed Apr 29 2015 15:12:08 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Wed Apr 29 2015 15:12:12 GMT-0400 (EDT) (user) ~emolaugh its ok 
+Wed Apr 29 2015 15:12:13 GMT-0400 (EDT) (bot) I'm not sure I understand you fully. 
+Wed Apr 29 2015 15:12:45 GMT-0400 (EDT) (user) ~emohello to mediha 
+Wed Apr 29 2015 15:12:46 GMT-0400 (EDT) (bot) Hi! 
+Wed Apr 29 2015 15:12:54 GMT-0400 (EDT) (user) Say Hello to Mediha 
+Wed Apr 29 2015 15:12:55 GMT-0400 (EDT) (bot) Tell me more about that. 
