@@ -1,6 +1,6 @@
 # kevbot
 
-A human like conversation robot connected with slack api
+A human like conversation robot connected with slack api.
 
 
 ###Get Start
@@ -8,9 +8,6 @@ A human like conversation robot connected with slack api
 To start, you will need to install superscript from NPM and init a new bot, this has been updated to be even easer.
 
   ```
-  $ npm install superscript -g
-  $ bot-init slackbot --client slack
-  $ cd slackbot
   $ npm install
   ```
 
