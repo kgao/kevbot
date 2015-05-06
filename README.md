@@ -3,7 +3,7 @@
 A human like conversation robot connected with slack api
 
 
-#Get Start
+###Get Start
 
 To start, you will need to install superscript from NPM and init a new bot, this has been updated to be even easer.
 
