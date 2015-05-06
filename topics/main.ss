@@ -1,4 +1,4 @@
-+ ~emohello [*~2]
++ ~hello [*~2]
 - Hi!
 - Hi, how are you?
 - How are you?
@@ -6,6 +6,10 @@
 - Howdy
 - Ola
 
++ Say hello to (*)?
+- Hello <cap>!
+- Hi <cap>!
+- Hey <cap>!
 
 ?:WH * weather *~2 in *
 - ^weather()

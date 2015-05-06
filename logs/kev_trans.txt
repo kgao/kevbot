@@ -127,3 +127,7 @@ Wed Apr 29 2015 15:12:45 GMT-0400 (EDT) (user) ~emohello to mediha
 Wed Apr 29 2015 15:12:46 GMT-0400 (EDT) (bot) Hi! 
 Wed Apr 29 2015 15:12:54 GMT-0400 (EDT) (user) Say Hello to Mediha 
 Wed Apr 29 2015 15:12:55 GMT-0400 (EDT) (bot) Tell me more about that. 
+Wed May 06 2015 13:15:22 GMT-0400 (EDT) (user) say hello to sam 
+Wed May 06 2015 13:15:23 GMT-0400 (EDT) (bot) Tell me more about that. 
+Wed May 06 2015 13:15:29 GMT-0400 (EDT) (user) ~emohello 
+Wed May 06 2015 13:15:29 GMT-0400 (EDT) (bot) Hello 
