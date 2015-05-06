@@ -18,5 +18,5 @@ Then you can tests this by compiling the topics and running the bot.
 
   ```
   $ parse
-  $ node server.js
+  $ node server
   ```
