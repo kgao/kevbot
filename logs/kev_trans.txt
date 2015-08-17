@@ -131,3 +131,67 @@ Wed May 06 2015 13:15:22 GMT-0400 (EDT) (user) say hello to sam
 Wed May 06 2015 13:15:23 GMT-0400 (EDT) (bot) Tell me more about that. 
 Wed May 06 2015 13:15:29 GMT-0400 (EDT) (user) ~emohello 
 Wed May 06 2015 13:15:29 GMT-0400 (EDT) (bot) Hello 
+Tue May 12 2015 16:44:27 GMT-0400 (EDT) (user) what is up 
+Tue May 12 2015 16:44:28 GMT-0400 (EDT) (bot) That is interesting. Please continue. 
+Tue May 12 2015 16:46:51 GMT-0400 (EDT) (user) say mute donbot 
+Tue May 12 2015 16:46:52 GMT-0400 (EDT) (bot) Tell me more about that. 
+Tue May 12 2015 16:50:49 GMT-0400 (EDT) (user) Say hello to donbot 
+Tue May 12 2015 16:50:50 GMT-0400 (EDT) (bot) Please go on. 
+Wed May 27 2015 17:18:37 GMT-0400 (EDT) (user) is donbot died 
+Wed May 27 2015 17:18:39 GMT-0400 (EDT) (bot) I'm not sure I understand you fully. 
+Wed May 27 2015 17:18:49 GMT-0400 (EDT) (user) what is wrong with donbot 
+Wed May 27 2015 17:18:49 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Wed May 27 2015 17:19:06 GMT-0400 (EDT) (user) what is the weather now in new york city 
+Wed May 27 2015 17:19:07 GMT-0400 (EDT) (bot) I'm not near a window. 
+Tue Jun 23 2015 12:58:54 GMT-0400 (EDT) (user) ~emohello 
+Tue Jun 23 2015 12:58:55 GMT-0400 (EDT) (bot) How are you? 
+Tue Jun 23 2015 12:59:01 GMT-0400 (EDT) (user) fuck 
+Tue Jun 23 2015 12:59:02 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Tue Jun 23 2015 12:59:23 GMT-0400 (EDT) (user) Say hello to dontbot 
+Tue Jun 23 2015 12:59:24 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Tue Jun 23 2015 13:00:35 GMT-0400 (EDT) (user) ~emohello 
+Tue Jun 23 2015 13:00:37 GMT-0400 (EDT) (bot) Ola 
+Tue Jun 23 2015 13:00:50 GMT-0400 (EDT) (user) Say hello to donbot 
+Tue Jun 23 2015 13:00:50 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Tue Jun 23 2015 13:02:07 GMT-0400 (EDT) (user) Say hello to donbot 
+Tue Jun 23 2015 13:02:08 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Mon Aug 17 2015 13:27:01 GMT-0400 (EDT) (user) ~emohello donbot 
+Mon Aug 17 2015 13:27:03 GMT-0400 (EDT) (bot) Does talking about this bother you? 
+Mon Aug 17 2015 13:27:25 GMT-0400 (EDT) (user) what is the weather like in new york 
+Mon Aug 17 2015 13:27:26 GMT-0400 (EDT) (bot) ^weather() 
+Mon Aug 17 2015 13:27:47 GMT-0400 (EDT) (user) I remember you 
+Mon Aug 17 2015 13:27:48 GMT-0400 (EDT) (bot) That is interesting. Please continue. 
+Mon Aug 17 2015 13:28:01 GMT-0400 (EDT) (user) did you forget it 
+Mon Aug 17 2015 13:28:01 GMT-0400 (EDT) (bot) That is interesting. Please continue. 
+Mon Aug 17 2015 13:32:28 GMT-0400 (EDT) (user) I dreamed something 
+Mon Aug 17 2015 13:32:28 GMT-0400 (EDT) (bot) Tell me more about that. 
+Mon Aug 17 2015 13:32:57 GMT-0400 (EDT) (user) I feel good 
+Mon Aug 17 2015 13:32:58 GMT-0400 (EDT) (bot) I'm not sure I understand you fully. 
+Mon Aug 17 2015 13:40:53 GMT-0400 (EDT) (user) run function weather 
+Mon Aug 17 2015 13:40:57 GMT-0400 (EDT) (user) ~emohello 
+Mon Aug 17 2015 13:41:08 GMT-0400 (EDT) (user) what is the weather like 
+Mon Aug 17 2015 13:41:08 GMT-0400 (EDT) (bot) Have you asked anyone else? 
+Mon Aug 17 2015 13:41:51 GMT-0400 (EDT) (user) ~emomaybe 
+Mon Aug 17 2015 13:42:00 GMT-0400 (EDT) (user) ~emohello 
+Mon Aug 17 2015 13:42:10 GMT-0400 (EDT) (user) I your boss 
+Mon Aug 17 2015 13:42:11 GMT-0400 (EDT) (bot) What makes you think of my boss? 
+Mon Aug 17 2015 13:42:26 GMT-0400 (EDT) (user) because you are robot 
+Mon Aug 17 2015 13:42:26 GMT-0400 (EDT) (bot) Are you positive they are undefined? 
+Mon Aug 17 2015 13:42:47 GMT-0400 (EDT) (user) say donbot die to donbot 
+Mon Aug 17 2015 13:43:03 GMT-0400 (EDT) (user) say hi to donbot 
+Mon Aug 17 2015 13:43:14 GMT-0400 (EDT) (user) I feel good 
+Mon Aug 17 2015 13:43:14 GMT-0400 (EDT) (bot) Of what does feeling good remind you? 
+Mon Aug 17 2015 13:43:27 GMT-0400 (EDT) (user) no one 
+Mon Aug 17 2015 13:43:39 GMT-0400 (EDT) (user) no one , my brother 
+Mon Aug 17 2015 13:43:40 GMT-0400 (EDT) (bot) Surely someone my brother. 
+Mon Aug 17 2015 13:43:51 GMT-0400 (EDT) (user) can you believe it 
+Mon Aug 17 2015 13:43:51 GMT-0400 (EDT) (bot) You're not really talking about me -- are you? 
+Mon Aug 17 2015 13:44:09 GMT-0400 (EDT) (user) ~emosad 
+Mon Aug 17 2015 13:44:15 GMT-0400 (EDT) (user) ~emosad it 
+Mon Aug 17 2015 13:44:20 GMT-0400 (EDT) (user) ~emogoodbye 
+Mon Aug 17 2015 13:44:31 GMT-0400 (EDT) (user) I will shut down you 
+Mon Aug 17 2015 13:44:32 GMT-0400 (EDT) (bot) You seem to need to will shut down me. 
+Mon Aug 17 2015 13:45:54 GMT-0400 (EDT) (user) am I your boss 
+Mon Aug 17 2015 13:45:54 GMT-0400 (EDT) (bot) Do you believe you are your boss? 
+Mon Aug 17 2015 13:46:05 GMT-0400 (EDT) (user) are you robot 
+Mon Aug 17 2015 13:46:06 GMT-0400 (EDT) (bot) Perhaps I am robot in your fantasies. 

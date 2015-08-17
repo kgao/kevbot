@@ -1,7 +1,7 @@
 
 // Auth Token - You can generate your token from
 // https://<slack_name>.slack.com/services/new/bot
-var token = "-Secret-";
+var token = "xoxb-4661811419-k3OvVaBXEJGVakzzcrOplOOC";
 
 // This is the main Bot interface
 var superscript = require("superscript");
